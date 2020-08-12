@@ -24,7 +24,8 @@ public class Main {
               summa = positiveCount / counter ;
 
             }
-        System.out.println(summa);
+                System.out.println(summa);
+
 
 
 
